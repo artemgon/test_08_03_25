@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace core_08_03_25.Abstractions
+namespace core_08_03_25.Entity
 {
     public interface IEntity
     {
